@@ -6,6 +6,7 @@ Console calculator.
 - Java
 
 ## 📸 Screenshots
+
 <img width="494" height="433" alt="image" src="https://github.com/user-attachments/assets/f3c2849e-745c-450c-926f-049e3dc41bf2" />
 <img width="491" height="452" alt="image" src="https://github.com/user-attachments/assets/197978f7-4ce9-46a1-808f-78658f035a43" />
 <img width="491" height="699" alt="image" src="https://github.com/user-attachments/assets/80c5fd9a-2aa5-443f-8678-96a3f1bdb3db" />
